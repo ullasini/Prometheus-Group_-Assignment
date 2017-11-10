@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15814" started-at="2017-11-10T16:54:03Z" finished-at="2017-11-10T16:54:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15814" started-at="2017-11-10T16:54:03Z" finished-at="2017-11-10T16:54:18Z">
+      <class name="Prometheus.assignment.Wekpedia">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:Prometheus.assignment.Wekpedia@5ae9a829]" name="Test1" duration-ms="6256" started-at="2017-11-10T11:54:03Z" finished-at="2017-11-10T11:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:Prometheus.assignment.Wekpedia@5ae9a829]" name="Test2" duration-ms="6005" started-at="2017-11-10T11:54:09Z" finished-at="2017-11-10T11:54:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:Prometheus.assignment.Wekpedia@5ae9a829]" name="Test3" duration-ms="3535" started-at="2017-11-10T11:54:15Z" finished-at="2017-11-10T11:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- Prometheus.assignment.Wekpedia -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
